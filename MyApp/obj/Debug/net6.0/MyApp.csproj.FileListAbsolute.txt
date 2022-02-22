@@ -1,0 +1,15 @@
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/bin/Debug/net6.0/MyApp
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/yashkantak/Desktop/3610/dotNet Projects/MyApp/obj/Debug/net6.0/ref/MyApp.dll
